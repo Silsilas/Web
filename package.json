@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d web"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silsilas/Web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silsilas/Web/issues"
+  },
+  "homepage": "https://github.com/Silsilas/Web"
+}
